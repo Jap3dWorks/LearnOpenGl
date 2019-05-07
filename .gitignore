@@ -1,0 +1,14 @@
+
+directionalLight/x64/Debug/
+
+\.vs/OpenGL/v15/
+
+*.vcxproj
+
+*.user
+
+*.filters
+
+*.log
+
+*.tlog
